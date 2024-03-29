@@ -75,7 +75,7 @@ buttons.forEach( (btn , index) => {
 let randomData = [
     {
         gameName : "Mortal Kompat",
-        gameImg : "../imges/mortal-kombat-kollection-online-kollection-online-pc-game-cover.jpg",
+        gameImg : "imges/mortal-kombat-kollection-online-kollection-online-pc-game-cover.jpg",
         gamePrice: 20,
         gameInp : 1,
         gameGenre : "Action",
@@ -83,7 +83,7 @@ let randomData = [
     },
     {
         gameName : "Tekken-7",
-        gameImg : "../imges/tekken-7-definitive-edition-definitive-edition-pc-game-steam-cover.jpg",
+        gameImg : "imges/tekken-7-definitive-edition-definitive-edition-pc-game-steam-cover.jpg",
         gamePrice: 30,
         gameInp : 1,
         gameGenre : "Action",
@@ -91,7 +91,7 @@ let randomData = [
     },
     {
         gameName : "Tekken-8",
-        gameImg : "../imges/tekken-8-pc-game-steam-cover.jpg",
+        gameImg : "imges/tekken-8-pc-game-steam-cover.jpg",
         gamePrice: 10,
         gameInp : 1,
         gameGenre : "Action",
@@ -99,7 +99,7 @@ let randomData = [
     },
     {
         gameName : "Grand Theft Auto",
-        gameImg : "../imges/grand-theft-auto-vi-pc-game-rockstar-cover.jpg",
+        gameImg : "imges/grand-theft-auto-vi-pc-game-rockstar-cover.jpg",
         gamePrice: 20,
         gameInp : 1,
         gameGenre : "Action",
@@ -107,7 +107,7 @@ let randomData = [
     },
     {
         gameName : "Battlefield-4",
-        gameImg : "../imges/battlefield-4-china-rising-pc-game-ea-app-cover.jpg",
+        gameImg : "imges/battlefield-4-china-rising-pc-game-ea-app-cover.jpg",
         gamePrice: 16,
         gameInp : 1,
         gameGenre : "Action",
@@ -115,7 +115,7 @@ let randomData = [
     },
     {
         gameName : "Call Of Duty",
-        gameImg : "../imges/call-of-duty-slipstream-pc-game-cover.jpg",
+        gameImg : "imges/call-of-duty-slipstream-pc-game-cover.jpg",
         gamePrice: 39,
         gameInp : 1,
         gameGenre : "Action",
@@ -123,7 +123,7 @@ let randomData = [
     },
     {
         gameName : "Ea Sport",
-        gameImg : "../imges/ea-sports-fc-24-pc-game-ea-app-cover.jpg",
+        gameImg : "imges/ea-sports-fc-24-pc-game-ea-app-cover.jpg",
         gamePrice: 22,
         gameInp : 1,
         gameGenre : "Action",
